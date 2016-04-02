@@ -5,3 +5,6 @@ Mission started.
 Robot running.
 
 data collecting.
+
+data analyzing.
+
