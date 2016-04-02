@@ -3,3 +3,5 @@ I am on Mars.
 Mission started.
 
 Robot running.
+
+data collecting.
